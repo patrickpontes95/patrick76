@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(to right, red, blue);
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    background-color: rgb(107, 17, 119);
+    border-radius: 20, 30 px;
+    width: auto;
+    height: 150px;
+    display: flex;
+}
+
+h1 {
+    margin: auto;
+    font-size: 50px;
+}
+
+H2 {
+    margin: auto;
+    font-size: 50PX;
+
+    text-align: center;
+    color: rgb(13, 160, 99);
+}
+
+P {
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgba(241, 1, 1, 0.555);
+    height: 55px;
+}
+
+video {
+    padding: 50px;
+    align-items: center;
+    width: 1300px;
+    margin: auto;
+    display: flex;
+    border-radius: 20px;
+}
